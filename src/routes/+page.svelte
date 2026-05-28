@@ -34,7 +34,7 @@
 						</a>
 					</div>
 
-					<a href="#projects" class="inline-block mt-4 text-sm text-gray-600 px-4 py-2 rounded hover:bg-gray-50 lg:hidden">View projects/skills →</a>
+					<a href="#projects" class="inline-block mt-4 text-sm text-gray-600 px-4 py-2 rounded hover:bg-gray-50 lg:hidden transition-colors">View projects/skills →</a>
 				</div>
 			</div>
 		</section>
