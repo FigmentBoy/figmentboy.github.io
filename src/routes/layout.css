@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@theme {
+	--color-purdue: #8e6f3e;
+}
+
+/* enable smooth in-page scrolling */
+html { scroll-behavior: smooth; }
