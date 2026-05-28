@@ -1,6 +1,6 @@
 <script lang="ts">
 	import './layout.css';
-	import favicon from '$lib/assets/favicon.svg';
+	import headshot from '$lib/assets/headshot.png';
 	import GithubIcon from '@iconify-svelte/line-md/github';
 	import TwitterIcon from '@iconify-svelte/line-md/twitter';
 	import LinkedinIcon from '@iconify-svelte/line-md/linkedin';
@@ -11,7 +11,8 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<title>Arman Pathan</title>
+	<link rel="icon" href={headshot} />
 </svelte:head>
 {@render children()}
 

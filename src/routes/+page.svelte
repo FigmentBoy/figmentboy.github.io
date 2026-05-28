@@ -10,7 +10,7 @@
 	<div class="max-w-6xl mx-auto px-6 py-0 flex flex-col lg:flex-row lg:items-start gap-12">
 		<!-- Hero (fills viewport height on large screens) -->
 		<section id="hero" class="lg:w-1/2 flex items-center h-screen lg:sticky top-0">
-			<div class="flex items-center gap-6 w-full">
+			<div class="flex flex-col sm:flex-row items-start gap-6 w-full text-left">
 				<!-- Picture -->
 				<div class="flex-shrink-0">
 					<img src={headshot} alt="Headshot" class="w-28 h-28 sm:w-36 sm:h-36 rounded-full object-cover shadow-sm" />
