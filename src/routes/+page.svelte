@@ -26,9 +26,6 @@
 						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="https://github.com/FigmentBoy" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
 							<GithubIcon height="1.4rem" />
 						</a>
-						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="https://twitter.com/FigmentBoy_" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-							<TwitterIcon height="1.4rem" />
-						</a>
 						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="https://www.linkedin.com/in/arman-pathan-ap31" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
 							<LinkedinIcon height="1.4rem" />
 						</a>
