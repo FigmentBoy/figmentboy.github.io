@@ -24,13 +24,13 @@
 					<!-- mobile: social icons above CTA -->
 					<div class="flex items-center gap-4 mt-4 lg:hidden">
 						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="https://github.com/FigmentBoy" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-							<GithubIcon height="1.4rem" />
+							<GithubIcon height="1.4rem" style="stroke-width: 1.4;" />
 						</a>
 						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="https://www.linkedin.com/in/arman-pathan-ap31" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-							<LinkedinIcon height="1.4rem" />
+							<LinkedinIcon height="1.4rem" style="stroke-width: 1.4;" />
 						</a>
 						<a class="text-gray-600 hover:text-gray-900 transition-colors" href="mailto:pathana@purdue.edu" target="_blank" rel="noopener noreferrer" aria-label="Email">
-							<EmailIcon height="1.4rem" />
+							<EmailIcon height="1.4rem" style="stroke-width: 1.4;" />
 						</a>
 					</div>
 
@@ -57,7 +57,7 @@
 										aria-label="zBot GitHub repository"
 										class="text-gray-500 hover:text-gray-800 transition-colors"
 									>
-										<GithubIcon height="1.1rem" />
+										<GithubIcon height="1.1rem" style="stroke-width: 1.4;" />
 									</a>
 								</div>
 								<p class="text-sm italic text-gray-600">C++, Stripe, Flask, HTML/CSS, reCAPTCHA, Python, discord.py</p>
@@ -83,7 +83,7 @@
 										aria-label="GDWeb GitHub repository"
 										class="text-gray-500 hover:text-gray-800 transition-colors"
 									>
-										<GithubIcon height="1.1rem" />
+										<GithubIcon height="1.1rem" style="stroke-width: 1.4;" />
 									</a>
 								</div>
 								<p class="text-sm italic text-gray-600">C++, GLSL, Emscripten, OpenGL, WebGL, HTML, TailwindCSS, Typescript, Svelte</p>
@@ -109,7 +109,7 @@
 										aria-label="Geode SDK GitHub repository"
 										class="text-gray-500 hover:text-gray-800 transition-colors"
 									>
-										<GithubIcon height="1.1rem" />
+										<GithubIcon height="1.1rem" style="stroke-width: 1.4;" />
 									</a>
 								</div>
 								<p class="text-sm italic text-gray-600">C++, CMake</p>

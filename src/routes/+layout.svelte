@@ -19,7 +19,7 @@
 <!-- Minimalist right-side social column using Iconify (line-md) -->
 <div class="hidden lg:flex fixed right-6 top-0 bottom-0 flex-col items-center justify-between z-50 pointer-events-none gap-3" aria-hidden="false">
 	<!-- Top line -->
-	<div class="w-1 grow bg-gray-600 mt-6 pointer-events-auto m"></div>
+	<div class="w-px grow bg-gray-600 mt-6 pointer-events-auto m"></div>
 
 	<!-- Icons centered between top and bottom lines -->
 	<nav class="flex flex-col items-center gap-3 pointer-events-auto" role="navigation" aria-label="Social links">
@@ -37,6 +37,6 @@
 	</nav>
 
 	<!-- Bottom line -->
-	<div class="w-1 h-14 bg-gray-600 mb-6 pointer-events-auto"></div>
+	<div class="w-px h-14 bg-gray-600 mb-6 pointer-events-auto"></div>
 </div>
 
