@@ -9,7 +9,7 @@
 <main class="min-h-screen">
 	<div class="max-w-6xl mx-auto px-6 py-0 flex flex-col lg:flex-row lg:items-start gap-12">
 		<!-- Hero (fills viewport height on large screens) -->
-		<section id="hero" class="lg:w-1/2 flex items-center h-screen lg:sticky top-0">
+		<section id="hero" class="lg:w-1/2 flex items-center h-dvh lg:sticky top-0">
 			<div class="flex flex-col sm:flex-row items-start gap-6 w-full text-left">
 				<!-- Picture -->
 				<div class="flex-shrink-0">
